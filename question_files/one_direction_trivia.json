@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Which member of One Direction came up with the name?",
+    "options": ["Harry", "Liam", "Niall"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "Who had the most solos on their debut album Up All Night?",
+    "options": ["Harry", "Louis", "Zayn"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "When did the band go on an extended break to concentrate on their solo careers?",
+    "options": ["2015", "2016", "2017"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "On which talent show did the members meet?",
+    "options": ["Pop Idol", "The X Factor", "The Voice"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "What was the first song they sang at the judges' house?",
+    "options": ["Someone Like You", "Born This Way", "Torn"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "question": "What was the title of One Direction's debut single?",
+    "options": ["Best Song Ever", "What Make You Beautiful", "Steal My Girl"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "How many albums have they released? ",
+    "options": ["3", "6", "5"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "question": "Which member of the group was born in Ireland?",
+    "options": ["Niall", "Zayn", "Kevin"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "What was the title of their documentary released in 2013?",
+    "options": ["Which way?", "One Direction: The Documentary", "This is us"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "question": "Which member quit the group on 25 March 2015?",
+    "options": ["Harry", "Zayn", "Liam"],
+    "correctAnswerIndex": 1
+  }
+]

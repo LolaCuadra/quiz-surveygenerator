@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the first game in The Legend of Zelda series?",
+    "options": ["Breath of The Wild(2017)", "Ocarina Of Time(1998)", "The Legend of Zelda(1986)"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "question": "Which game introduced the parallel world concept, Light World and Dark World?",
+    "options": ["A Link to the Past", "Majora's Mask", "Spirit Tracks"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "What is the highest-grossing game in the series?",
+    "options": ["Twiligth Princess", "Breath of the Wild", "Tears of a kingdom"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "Which game in the series was the first to feature 3D graphics?",
+    "options": ["Ocarina of time", "Majora's Mask", "Breath of the Wild"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": "How many masks can be collected in The Legend of Zelda: Majora’s Mask?",
+    "options": ["12", "23", "24"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "question": "What is the name of the sword that Link wields in most of the games?",
+    "options": ["Knigth Sword", "Master Sword", "Deku Sword"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "What is the name of the time-traveling artifact in Ocarina of Time?",
+    "options": ["Ocarina of time", "Sheikah slate", "Purah Pad"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "question": " What is the name of the land in which most of the games take place?",
+    "options": ["Deku Forest", "Kakariko Village", "Hyrule"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "question": ". Which game in the series was the first to feature multiplayer gameplay?",
+    "options": ["The Legend of Zelda: The Minish Cap", "The legend of Zelda: Four Swords", "The Legend of Zelda:Breath of The wild"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "What is the name of the princess that Link is often tasked with saving?",
+    "options": ["Princess Zelda", "Princess Sariah", "Princess Lola"],
+    "correctAnswerIndex": 0
+  }
+]
